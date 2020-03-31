@@ -24,7 +24,7 @@ body{
 
 #tray ul li{
 	list-style: none;
-	font-family: cursive;
+	font-family: sans-serif;
 	padding:15px 10px;
 	
 }
@@ -75,8 +75,8 @@ a:visited{
 
 #main1{
 	color:#8F519E;
-	font-size: 35px;
-	font-family: cursive;
+	font-size: 30px;
+	font-family: sans-serif;
 	text-align:center;
 }
 
@@ -87,6 +87,7 @@ a:visited{
 	color:#8F519E;
 	
 	background-position: center right;
+	font-family:sans-serif;
 	font-size:25px;
 	min-height: 300px;
 	margin-bottom: 30px;
